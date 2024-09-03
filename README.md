@@ -1,4 +1,4 @@
-                    # Airline Passenger Satisfaction Prediction 
+                          # Airline Passenger Satisfaction Prediction 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -34,11 +34,10 @@ The primary objective of this project is to build an SVM model that accurately p
 
 ## Results
 - *Model Performance*:
-  - Accuracy: [Value]
-  - Precision: [Value]
-  - Recall: [Value]
-  - F1-Score: [Value]
-- *Confusion Matrix*: [Include a visualization if available]
+  - Accuracy: 99.99759395601751
+  - Precision: 100.0
+  - Recall: 74.74
+  - F1-Score: 85.54
 - *Insights*: Identified key drivers of passenger satisfaction, such as in-flight services and seat comfort.
 
 ## Challenges Faced
